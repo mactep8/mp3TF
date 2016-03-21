@@ -1,0 +1,54 @@
+#######################################
+# Syntax Coloring Map for mp3TF
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+mp3TF			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init			KEYWORD2
+playNext		KEYWORD2
+playPrev		KEYWORD2
+playTrackPhisical	KEYWORD2
+playRepeatSingle	KEYWORD2
+playFolder		KEYWORD2
+playFolder2		KEYWORD2
+play			KEYWORD2
+pause			KEYWORD2
+stop			KEYWORD2
+playAllRepeat		KEYWORD2
+playMP3Folder		KEYWORD2
+playFolderRepeat	KEYWORD2
+playRandom		KEYWORD2
+repeatCurrent		KEYWORD2
+
+volumeInc		KEYWORD2
+volumeDec		KEYWORD2
+volumeSet		KEYWORD2
+
+setEQ			KEYWORD2
+setAudioAmplifier	KEYWORD2
+
+Sleep			KEYWORD2
+Reset			KEYWORD2
+setInterCut		KEYWORD2
+stopInterCut		KEYWORD2
+useDAC			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MP3_EQ_NORMAL		LITERAL1
+MP3_EQ_POP 		LITERAL1
+MP3_EQ_ROCK 		LITERAL1
+MP3_EQ_JAZZ 		LITERAL1
+MP3_EQ_CLASSIC 		LITERAL1
+MP3_EQ_BASS 		LITERAL1
